@@ -4,7 +4,10 @@ A full stack web app created using HTML, CSS, NodeJS, Express and MongoDB that a
 
 ## Description
 
-Authorized users can create, update, and delete their stories and other registered users can view the stories.
+* First the users have to login/register using their Google account.
+* Once logged in, the users can create, edit and delete their stories.
+* There is a 'Public Stories' page where users can view stories posted by other people.
+* Another feature which is Authorization has been taken into account. This means that a user can edit or delete his/her own story and not someone else's story.
 
 ## Technologies Used
 
