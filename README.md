@@ -1,6 +1,6 @@
 # ShareStory
 
-A full stack web app created using HTML, CSS, Node.js, Express and MongoDB that allows users to post interesting stories.
+A full stack web app created using HTML, CSS, NodeJS, Express and MongoDB that allows users to post interesting stories.
 
 ## Description
 
